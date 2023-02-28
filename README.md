@@ -1,6 +1,8 @@
 # flash-card-QnA-app - Flashcard App
 I created a simple flashcard app using Python and Tkinter that displays random questions and allows users to reveal the answers. This project helped me practice my Python and GUI programming skills while also preparing for an interview on BMC control-m monitoring system 
 
+<img width="679" alt="example" src="https://user-images.githubusercontent.com/83719998/221850540-9651aea3-b0bc-41c6-8655-d97db005902c.png">
+
 # Flashcard App
 
 This is a simple flashcard app that displays random questions and allows you to reveal the answers. It is built using Python and the Tkinter GUI toolkit.
