@@ -65,7 +65,7 @@ root = tk.Tk()
 root.title("Flashcards")
 
 # Set the window size
-root.geometry("400x200")
+root.geometry("400x250")
 
 # Define the question label
 question_label = tk.Label(root, text="", wraplength=350)
